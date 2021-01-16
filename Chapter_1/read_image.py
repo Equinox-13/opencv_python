@@ -1,7 +1,7 @@
 import cv2
 
 # file path of image
-path = '/home/bista/practice/opencv_projects/opencv_python/resources/cat.jpeg'
+path = 'opencv_python/resources/cat.jpeg'
 
 # Reads image
 img = cv2.imread(path)
