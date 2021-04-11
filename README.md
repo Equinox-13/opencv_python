@@ -7,3 +7,4 @@
 - Chapter 5 - Warp Perspective
 - Chapter 6 - Joining Images
 - Chapter 7 - Color Detection
+- Chapter 8 - Contours/ Shape Detection
