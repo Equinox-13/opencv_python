@@ -8,3 +8,4 @@
 - Chapter 6 - Joining Images
 - Chapter 7 - Color Detection
 - Chapter 8 - Contours/ Shape Detection
+- Chapter 9 - Face Detection
