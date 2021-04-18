@@ -5,6 +5,7 @@ faceCascade = cv2.CascadeClassifier("opencv_python/resources/haarcascade_frontal
 print("check==============>",faceCascade.empty())
 
 img = cv2.imread('opencv_python/resources/elon_musk.jpg')
+# img = cv2.imread('opencv_python/resources/image_group.jpg')
 imgGray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
 
 faces = faceCascade.detectMultiScale(imgGray, 1.1, 4)
